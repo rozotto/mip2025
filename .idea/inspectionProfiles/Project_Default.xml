@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.randint" />
+          <option value="random.random.shuffle" />
+          <option value="main.__init__.types" />
+          <option value="dict.key" />
+          <option value="sys.set_int_max_str_digits" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
